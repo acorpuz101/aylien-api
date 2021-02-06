@@ -1,0 +1,5 @@
+node_modules
+.vs
+auth.json
+shutdown.sh
+config.json
